@@ -63,6 +63,7 @@ button {
     border-radius: .3rem;
     font-family: 'Audiowide', cursive;
     box-shadow: 0 0 1rem;
+    cursor: pointer;
 }
     #start {
         background: lime;
